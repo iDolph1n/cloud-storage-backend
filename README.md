@@ -258,3 +258,15 @@ mvn test
 
 - **Unit-тесты** (`service/`): `AuthServiceTest`, `FileServiceTest` — JUnit 5 + Mockito
 - **Интеграционные тесты** (`it/`): `CloudStorageIntegrationTest` — Testcontainers (PostgreSQL) + MockMvc
+
+---
+
+## Лицензия
+
+Проект распространяется под лицензией [MIT](LICENSE.txt).
+
+---
+
+## Автор
+
+Работу выполнил студент группы **JD-92** — **Михайлов Виталий**.
